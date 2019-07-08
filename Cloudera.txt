@@ -1,0 +1,11 @@
+E:\Keshav Others\Cloudera\cloudera-quickstart-vm-5.5.0-0-vmware\cloudera-quickstart-vm-5.5.0-0-vmware
+
+E:\Keshav Others\cloudera-quickstart-vm-5.5.0-0-vmware
+
+PYSPARK_DRIVER_PYTHON=jupyter PYSPARK_DRIVER_PYTHON_OPTS="notebook --no-browser --port=7777" pyspark
+
+https://github.com/apache/spark/blob/master/python/pyspark/sql/dataframe.py
+
+sudo service hbase-master restart
+
+sudo service hbase-regionserver restart
